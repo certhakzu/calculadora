@@ -26,7 +26,7 @@ public class Calculadora {
     }
 
     /**
-     * Método que regresa number1
+     * Método para acceder al atributo number1
      * @return number1 primer operando
      */
     public double getNumber1() {
@@ -34,7 +34,7 @@ public class Calculadora {
     }
 
     /**
-     * Método para asignar number1
+     * Método para modificar number1
      * @param number1
      */
     public void setNumber1(double number1) {
@@ -42,7 +42,7 @@ public class Calculadora {
     }
 
     /**
-     * Método que regresa number2
+     * Método para acceder al atributo number2
      * @return number2 segundo operando
      */
     public double getNumber2() {
@@ -50,7 +50,7 @@ public class Calculadora {
     }
 
     /**
-     * Método para asignar number2
+     * Método para modificar number2
      * @param number2
      */
     public void setNumber2(double number2) {
